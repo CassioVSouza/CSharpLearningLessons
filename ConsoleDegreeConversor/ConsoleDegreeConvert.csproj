@@ -10,6 +10,7 @@
   <ItemGroup>
     <ProjectReference Include="..\ConversorAPI\ConvertAPI.csproj" />
     <ProjectReference Include="..\RandomNumberAPI\RandomNumberAPI.csproj" />
+    <ProjectReference Include="..\Shipment\Shipment.csproj" />
   </ItemGroup>
 
 </Project>
