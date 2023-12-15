@@ -10,7 +10,7 @@ namespace ConsoleDegreeConversor
         static void Main(string[] args)
         {
             Random random = new Random();
-            Console.WriteLine("Welcome, what function do you want to use ?\n1 - DegreeConvert\n2 - Random Number\n3 - Random Number");
+            Console.WriteLine("Welcome, what function do you want to use ?\n1 - DegreeConvert\n2 - Random Number\n3 - Shipment");
             int userChoice = Convert.ToInt32(Console.ReadLine());
             switch (userChoice)
             {
