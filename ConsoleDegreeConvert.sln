@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34322.80
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleDegreeConversor", "ConsoleDegreeConversor\ConsoleDegreeConversor.csproj", "{48A79293-C55C-4B62-9AEC-DA913B666754}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleDegreeConvert", "ConsoleDegreeConversor\ConsoleDegreeConvert.csproj", "{48A79293-C55C-4B62-9AEC-DA913B666754}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Main", "Main", "{A8B49EFC-5D68-479D-A0AC-7CEA0732B3CA}"
 EndProject
